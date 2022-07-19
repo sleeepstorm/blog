@@ -3,7 +3,7 @@ title: *hexhub*
 ---
 
  <details>
- <summary>Changlog</summary>
+   <summary><strong>Changelog</strong></summary>
  <p><i>July 18, 2022<i>: Added changelog</p>
 </details>
 
