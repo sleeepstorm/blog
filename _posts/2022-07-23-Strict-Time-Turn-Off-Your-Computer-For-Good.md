@@ -2,7 +2,6 @@
 title: "Strict Time - turn off your computer for good"
 date: 2022-7-23
 ---
-# Strict Time - Turn off your computer. For good.
 
 ![Title Image](https://th.bing.com/th/id/R.30cd94aa80ddb61ed0a64c12a0af194f?rik=rXvFJJYKlB0GLQ&pid=ImgRaw&r=0)
 
