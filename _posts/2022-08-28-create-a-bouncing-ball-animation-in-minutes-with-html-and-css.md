@@ -1,7 +1,7 @@
- ---
- title: "Creating a bouncing ball animation in minutes with HTML and CSS"
- date: 2022-08-28
- ---
+---
+title: "Creating a bouncing ball animation in minutes with HTML and CSS"
+date: 2022-08-28
+---
 
 ![Title image](https://gifimage.net/wp-content/uploads/2017/10/bouncy-ball-gif-12.gif)
 *(Credit: [GIF Image](https://gifimage.net/bouncy-ball-gif-12/))*
