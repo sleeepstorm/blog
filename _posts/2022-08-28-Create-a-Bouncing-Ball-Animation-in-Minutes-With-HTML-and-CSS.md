@@ -4,7 +4,9 @@ date: 2022-08-28
 ---
 
 ![Title image](https://gifimage.net/wp-content/uploads/2017/10/bouncy-ball-gif-12.gif)
+
 *(Credit: [GIF Image](https://gifimage.net/bouncy-ball-gif-12/))*
+
  ## Introduction
 One of the most iconic things to animate is a bouncing ball and animations can be created using HTML and CSS. Today, let's put our CSS animation skills to the test by creating a bouncing ball.
 
