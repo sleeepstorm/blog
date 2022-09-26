@@ -3,4 +3,4 @@ title: *hexhub*
 ---
 
 
-Hi, Welcome to my blog... I aim to post twice a month. Stay tuned for all of my posts!
+Hi, Welcome to my blog... There's not really any schedule for when I will post. Just watch the repo on GitHub for any updates. Enjoy!
