@@ -1,6 +1,6 @@
 ---
 title: "Passwordle... Generator! Putting Wordle to real-world use."
-date: "11-7-22"
+date: "2022-11-8"
 ---
 <img src="https://nytco-assets.nytimes.com/2022/01/Screen-Shot-2022-01-30-at-10.05.09-PM.png" alt="drawing" width="570"/>
 
