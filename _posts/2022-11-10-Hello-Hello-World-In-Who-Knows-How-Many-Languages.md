@@ -4,6 +4,7 @@ date: "2022-11-10"
 ---
 
 ![title-img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hello_%28yellow%29.svg/1200px-Hello_%28yellow%29.svg.png)
+(*Credit: [Wikimedia](https://wikimedia.org)*)
 ## Hello \#
 Hello # is not the project name. # is simply the number that changes depending on how many languages are on there. At the time of writing there are 18 so right now it's called [*hello18*](https://github.com/nikhilhex/hello18).
 
