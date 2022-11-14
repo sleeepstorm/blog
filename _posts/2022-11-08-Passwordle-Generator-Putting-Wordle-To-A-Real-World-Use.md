@@ -3,7 +3,7 @@ title: "Passwordle... Generator! Putting Wordle to real-world use."
 date: "2022-11-8"
 ---
 <img src="https://nytco-assets.nytimes.com/2022/01/Screen-Shot-2022-01-30-at-10.05.09-PM.png" alt="drawing" width="570"/>
-
+(*Credit:: [New York Times](https://www.nytimes.com/)*)
 [*Wordle*](https://www.nytimes.com/games/wordle/index.html) is an online game where you guess a word and it will tell you what letters are in the word. All of the words that you can guess have to be 5 letters (in the main version). Instead of making my own version of *Wordle*, I made a project with a use... To generate passwords.
 
 ## Retrieving the words
