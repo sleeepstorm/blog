@@ -1,6 +1,6 @@
 ---
-title: *hexhub*
+title: hexhub
 ---
 
 
-happy birthday hexhub. pretty dissapointing blog but I'll post soon, I promise.
+this blog is getting a giant revamp and will be repurposed so watch for that.
